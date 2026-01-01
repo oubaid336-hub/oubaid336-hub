@@ -44,3 +44,6 @@ I'm a Developer based in Tunis, Tunisia. I am versatile, working with both low-l
 <img src="https://github-readme-stats.vercel.app/api?username=oubaid336-hub&show_icons=true&theme=radical" alt="Oubaid's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubaid336-hub&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
+### 🚀 Top Projects
+- [**C Algorithms**](https://github.com/oubaid336-hub/C-Data-Structures-and-Algorithms) - Linked Lists & Logic in C
+- [**Java OOP**](https://github.com/oubaid336-hub/Java-OOP-Fundamentals) - Class structure & Logic in Java
