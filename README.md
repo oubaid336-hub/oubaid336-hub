@@ -1,3 +1,14 @@
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=oubaid336-hub&theme=radical&no-frame=true&margin-w=15" alt="oubaid336-hub" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oubaid336-hub&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
 # Hi there, I'm Oubaid! 👋
 
 I'm a Developer based in Tunis, Tunisia. I am versatile, working with both low-level programming and modern web technologies.
