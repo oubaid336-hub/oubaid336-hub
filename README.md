@@ -4,7 +4,7 @@ I'm a Developer based in Tunis, Tunisia. I am versatile, working with both low-l
 
 - 🔭 I’m currently working on **Full Stack Web Projects**
 - 🌱 I’m currently learning **Advanced Data Management**
-- 📫 Reach me at: **[Insert Your Email Here]**
+- 📫 Reach me at: **oubaid336@gmail.com**
 
 ---
 
